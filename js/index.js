@@ -237,6 +237,7 @@ $.get("js/profile.json",
 	function(data, status){
 		console.log('Got profile:',data,' \nwith status:',status);
 		if(status!=="success") {
+			//window.location.href = "/error.html"지정된페이지로 이동시키는 javascript문법
 			window.location.href = "/error.html";
 		}
 		profile = data;
