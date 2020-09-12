@@ -39,6 +39,7 @@ function loadProjects(projects){
 		project+='</div><div class="col m6 s12 details">'+projects[i].shortInfo+'</div></div>';
 		projectsInnerHTML+=project;
 	}
+	
 	$('#projects').html(projectsInnerHTML);
 }
 
