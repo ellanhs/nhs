@@ -58,6 +58,8 @@ div.content {
 
 #pageb .tabs{
 	background: none;
+	margin-bottom: 17px;
+	margib-top:17px;
 }
 
 
@@ -153,7 +155,7 @@ object{
 
 
 #image img{
-	width: 39.5%;
+	width: 35.5%;
 	filter: grayscale(1);
 	border: solid white 3px;
 	margin-left: 30.25%;
@@ -184,8 +186,10 @@ a{
 }
 
 .tabs .tab a{
+	font-size: 18px;
 	color: white;
 }
+
 
 .tabs .tab a:hover{
 	color: white;
@@ -228,14 +232,15 @@ button:hover {
 .swal-button-container {
 	display: inline;
 }
-#pageb {
-    width: 65%;
+
+#pageb{
+    width: 66%;
     margin-left: auto;
     left: auto;
     right: auto;
 }
-#pagea {
-    width: 35%;
+#pagea{
+    width: 34%;
     margin-left: auto;
     left: auto;
     right: auto;
