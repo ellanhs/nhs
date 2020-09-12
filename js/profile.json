@@ -46,31 +46,7 @@
           "courseName": "Data Analytics",
           "courseScore": "8/10",
           "sn": 4
-        },
-        {
-          "courseCode": "3IT211",
-          "courseName": "Theory of Computation",
-          "courseScore": "8/10",
-          "sn": 5
-        },
-        {
-          "courseCode": "3IT201",
-          "courseName": "Discrete Mathemactics",
-          "courseScore": "7/10",
-          "sn": 6
-        },
-        {
-          "courseCode": "3IT303",
-          "courseName": "Operating System",
-          "courseScore": "8/10",
-          "sn": 10
-        },
-        {
-          "courseCode": "3IT322",
-          "courseName": "Unix Operating System",
-          "courseScore": "8/10",
-          "sn": 11
-        },
+        },        
         {
           "courseCode": "3IT301",
           "courseName": "Database Engineering",
@@ -368,7 +344,7 @@
       "link": "https://github.com/ellanhs/WithU.git"
     }
   ],
-  "summary": "<p>안녕하세요.개발자 남효선 입니다.공주 대학교에서 정보 통신 공학 을 전공했습니다.알고리즘,프로그래밍에  관심이 있고  Java와 Javascript를 좋아합니다. :) </p>\n\n<p>저와 공통관심사가 있다면 공유하고 함께 성장해요!</p><p>만약 그렇지 않더라도 괜찮습니다.제가 놓친 부분을 소개해주시면 감사드리겠습니다.하하.\n\n</p>intermediate-level candidate whom is initiative, proactive and willing to learn continously.when i work, i always thiking about how to improve the code or system.i'm seeking to use my programming skill to contribute towards the company's excellence.</p>",
+  "summary": "<p>안녕하세요.full stack 개발자 남효선 입니다.공주 대학교에서 정보 통신 공학 을 전공했습니다.알고리즘,프로그래밍에  관심이 있고  Java와 Javascript를 좋아합니다. :)</p>\n\n<p>저와 공통관심사가 있으시다면 공유하고 함께 성장했으면 좋겠습니다!</p><p>만약 제가 놓친 부분이 있다면 피드백해주시면 감사드리겠습니다.하하.</p><p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I work as Software Development Engineer.I majored in Information and Communication Engineering(Information Technology) at KONG JU University.</p>\n\n<p>I'm interested in Algorithms, Programming. I like Java and Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p><p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>\n\n</p>intermediate-level candidate whom is initiative, proactive and willing to learn continously.when i work, i always thiking about how to improve the code or system.i'm seeking to use my programming skill to contribute towards the company's excellence.</p>",
   "profileLinks": [
     {
       "name": "Github",
@@ -427,7 +403,5 @@
     "It's very hard to fail completely if you aim high enough'",
     "살아감에 있어 우리에게는 선택권이 있다. 아파하며 무너질 것인가 아니면 그래도 희망을 가지고 꿈을 꿀것인가",
     "How Could We Have Done Better?"    
-  ],
-
-  "helloText": " <p>안녕하세요.이 곳에 방문해 주셔서 감사합니다.<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I work as Software Development Engineer.I majored in Information and Communication Engineering(Information Technology) at KONG JU University.</p>\n\n<p>I'm interested in Algorithms, Programming. I like Java and Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  ]
 }
