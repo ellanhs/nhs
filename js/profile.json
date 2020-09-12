@@ -7,8 +7,8 @@
     "nick": "ellanhs",
     "address": {
       "list": [
-        "Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
-        "'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
+        "서울시 동작구 ",
+        "사당로"
       ]
     },
     "email": "smagytjs33@gmail.com",
@@ -16,12 +16,12 @@
   },
   "educations": [
     {
-      "periodStart": "July 2017",
-      "periodEnd": "May 2018",
-      "course": "B.Tech Information Technology",
+      "periodStart": "2009년 3월",
+      "periodEnd": "2015년 8월",
+      "course": "정보통신공학전공",
       "score": "",
-      "inst": "Walchand College of Engineering, Sangli",
-      "board": "GONGJU University",
+      "inst": "충청남도 천안시 서북구 천안대로 1223-24",
+      "board": "공주대학교",
       "courses": [
         {
           "courseCode": "3IT202",
@@ -230,60 +230,31 @@
       ]
     },
     {
-      "periodStart": "April 2013",
-      "periodEnd": "May 2014",
-      "course": "All India Senior School Examination",
-      "score": "89.4%",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
-      "courses": [
-        {
-          "courseCode": "041",
-          "courseName": "Mathemactics",
-          "courseScore": "86/100",
-          "sn": 1
-        },
-        {
-          "courseCode": "042",
-          "courseName": "Physics",
-          "courseScore": "87/100",
-          "sn": 2
-        },
-        {
-          "courseCode": "043",
-          "courseName": "Chemistry",
-          "courseScore": "86/100",
-          "sn": 3
-        },
-        {
-          "courseCode": "083",
-          "courseName": "Computer Science",
-          "courseScore": "94/100",
-          "sn": 4
-        }
-      ]
+      "periodStart": "2017년 11월",
+      "periodEnd": "2018년 5월",
+      "course": "빅데이터 기반 프레임워크 정규과정",
+      "score": "",
+      "inst": "",
+      "board": "그린 컴퓨터 아카데미",
+      "courses": []
+    },
+      {
+      "periodStart": "2011년 7월",
+      "periodEnd": "2011년 8월",
+      "course": "유통관리사2급",
+      "score": "",
+      "inst": "",
+      "board": "대한상공회의소",
+      "courses": []
     },
     {
-      "periodStart": "April 2011",
-      "periodEnd": "May 2012",
-      "course": "All India Secondary School Examination",
-      "score": "10.00 CGPA",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
-      "courses": [
-        {
-          "courseCode": "041",
-          "courseName": "Mathemactics",
-          "courseScore": "10/10",
-          "sn": 1
-        },
-        {
-          "courseCode": "086",
-          "courseName": "Science",
-          "courseScore": "10/10",
-          "sn": 2
-        }
-      ]
+      "periodStart": "2020년 5월",
+      "periodEnd": "2020년 8월",
+      "course": "정보처리기사",
+      "score": "",
+      "inst": "",
+      "board": "한국산업인력공단",
+      "courses": []
     }
   ],
   "skills": [
@@ -335,33 +306,23 @@
    ],
   "experince": [
     {
-      "sn": 1,
-      "link": "http://www.praxisinfotech.com/",
-      "workPosition": "Web Development Intern",
-      "periodStart": "June 2017",
-      "periodEnd": "July 2017",
-      "organisation": "Praxis Infotech ",
-      "experience": "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places and events.",
-      "type": "work"
-    },
-    {
       "sn": 0,
-      "link": "https://www.media.net/",
+      "link": "http://www.atos.co.kr/",
       "workPosition": "Software Development Engineer",
-      "periodStart": "July 2018",
-      "periodEnd": "Feb 2020",
-      "organisation": "Media.Net",
-      "experience": "<ul><li>Involved in designing, developing features and parts of an App Distribution platform.</li><li>Majorly my work involves:</li><ul><li>– Designing, writing and consuming HTTP-REST APIs.</li><li>– Setting up job queues for multiple monitoring tasks.</li><li>– Writing template code for full-stack Web and Desktop applications.</li><li>– Automating and setting up application build processes.</li><li>– Extensive research and POC creation of features,solutions for novel business requirements.</li><li>– Identifying bottlenecks across system and optimize database queries, page load time, serving time, build time.</li></ul><li>Developed node-js, python back-end applications for automating and monitoring application build processes.</li><li>Developed node-js module for restructuring and renaming directory tree, handled resolution of interlinked file-paths in files.</li><li>Developed macOs desktop application(A Safari App Extension) using Swift for search monetization with app installer and app auto update feature from scratch</li></ul>",
+      "periodStart": "2018년 10월",
+      "periodEnd": "2020년 2월",
+      "organisation": "FMCS",
+      "experience": "Involved in designing, developing features and parts of an App Distribution platform.</li><li>Majorly my work involves:</li><ul> <li>– Writing template code for full-stack Web and Desktop applications.</li><li>– Automating and setting up application build processes.</li><li>– Extensive research of features,solutions for novel business requirements.</li></ul>" ,
       "type": "work"
     },
     {
       "sn": -1,
-      "link": "https://www.cohesity.com",
-      "workPosition": "Member of Technical Staff",
-      "periodStart": "Feb 2020",
-      "periodEnd": "Present",
-      "organisation": "Cohesity",
-      "experience": "<ul><li>\nDevelopingdistributedsystemsoftwareusingC++,Golangfordataprotection.</li></ul>",
+      "link": "Cooktologist pte",
+      "workPosition": "Customer Service Officer",
+      "periodStart": "2015년3월",
+      "periodEnd": "2017년3월",
+      "organisation": "",
+      "experience": "",
       "type": "work"
     }
   ],
@@ -372,16 +333,18 @@
       "periodStart": "February 2018",
       "periodEnd": "May 2018",
       "toolsUsed": [
-        "eclipse",
-        "data analysis"
+        "JAVA",
+        "JAVASCRIPT",
+        "CSS",
+        "HTML5",
+        "Apach Tomcat"
       ],
       "tags": [
-        "blender",
-        "animation",
-        "3d-modelling",
-        "traffic rules"
+        "oop",
+        "JAVA",
+        "Javascript"
       ],
-      "shortInfo": "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III.",
+      "shortInfo": "‘Gatcha’는 영화의 정보 확인 및 개인의 영화 취향 분석을 위한 홈페이지입니다. ‘왓챠 플레이 & 왓챠’ 홈페이지를 레퍼런스로 하여 전체적인 페이지를 구성하였습니다. Gatcha 홈페이지는 Login을 진입 페이지로 시작하여, 박스 오피스, 다이어리 등의 기능을 제공하고 있습니다. 카테고리 별로는 평가 매기기, 나의 이야기, 고객센터, 개인설정 서비스를 기본으로 제공하고 있습니다.",
       "link": "https://github.com/ellanhs/Gatcha.git"
     },
     {
@@ -390,21 +353,22 @@
       "periodStart": "Jul 2020",
       "periodEnd": "Sep 2020",
       "toolsUsed": [
-        "c++",
-        "qt"
+        "JAVA",
+        "JAVASCRIPT",
+        "CSS",
+        "HTML5",
+        "Apach Tomcat"
       ],
       "tags": [
         "oop",
-        "c++",
-        "qt",
-        "gui",
-        "files"
+        "JAVA",
+        "Javascript"
       ],
       "shortInfo": "C++ Qt Standalone Application keeps track of every patient and its visits. Data collected can be used for Projects of Data Mining and Machine Learning as data sets.",
       "link": "https://github.com/ellanhs/WithU.git"
     }
   ],
-  "summary": "<p>안녕하세요.개발자 남효선 입니다.</p>",
+  "summary": "<p>안녕하세요.개발자 남효선 입니다.공주 대학교에서 정보 통신 공학 을 전공했습니다.알고리즘,프로그래밍에  관심이 있고  Java와 Javascript를 좋아합니다. :) </p>\n\n<p>저와 공통관심사가 있다면 공유하고 함께 성장해요!</p><p>만약 그렇지 않더라도 괜찮습니다.제가 놓친 부분을 소개해주시면 감사드리겠습니다.하하.\n\n</p>intermediate-level candidate whom is initiative, proactive and willing to learn continously.when i work, i always thiking about how to improve the code or system.i'm seeking to use my programming skill to contribute towards the company's excellence.</p>",
   "profileLinks": [
     {
       "name": "Github",
@@ -430,43 +394,40 @@
       "icon": "maths.svg",
       "sn": 2
     },
-    {
-      "name": "Armed Forces",
-      "icon": "soldier.svg",
+        {
+      "name": "Reading",
+      "icon": "book.svg",
       "sn": 3
     },
     {
-      "name": "Reading",
-      "icon": "book.svg",
-      "sn": 4
-    },
-    {
       "name": "Cat",
-      "icon": "singer.svg",
-      "sn": 5
+      "icon": "cat.svg",
+      "sn": 4
     },
     {
       "name": "Chicken",
       "icon": "chicken.svg",
-      "sn": 7
+      "sn": 5
     },
     {
-      "name": "Trekking",
-      "icon": "trek.svg",
-      "sn": 9
+      "name": "Travel",
+      "icon": "travel.svg",
+      "sn": 6
     },
     {
       "name": "Camping",
       "icon": "tent.svg",
-      "sn": 10
+      "sn": 7
     }
   ],
   "qoutes": [
-    "개발자.",
+    "하루하루 고쳐나가는 개발자.",
+    "If we take care of the moments, the years will take care of themselves.",
     "나는 내일을 기다리지 않는다.",
-    "Every day .",
-    "바꾸자.",
-    "바꾸자2."
+    "It's very hard to fail completely if you aim high enough'",
+    "살아감에 있어 우리에게는 선택권이 있다. 아파하며 무너질 것인가 아니면 그래도 희망을 가지고 꿈을 꿀것인가",
+    "How Could We Have Done Better?"    
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm working as Member of Technical Staff at <a href='https://cohesity.com'>Cohesity</a></p>\n<p>Before this I used work as Software Development Engineer at <a href='http://media.net'>Media.Net</a>. I completed  B.Tech Information Technology at <a href='http://walchandsangli.ac.in'>Walchand College of Engineering Sangli</a> and my schooling from <a href='http://jnvwashim.gov.in'>Jawahar Navodaya Vidyalaya, Washim</a>.</p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems and Machine Learning. I overwhelmingly like C++, Python and Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+
+  "helloText": " <p>안녕하세요.이 곳에 방문해 주셔서 감사합니다.<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I work as Software Development Engineer.I majored in Information and Communication Engineering(Information Technology) at KONG JU University.</p>\n\n<p>I'm interested in Algorithms, Programming. I like Java and Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
