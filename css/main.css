@@ -228,14 +228,13 @@ button:hover {
 .swal-button-container {
 	display: inline;
 }
-
 #pageb {
     width: 65%;
     margin-left: auto;
     left: auto;
     right: auto;
 }
-#pageb {
+#pagea {
     width: 35%;
     margin-left: auto;
     left: auto;
