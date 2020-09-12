@@ -15,8 +15,9 @@ div.content {
 	font-size:  2.5rem;
 	font-weight: bold;
 }
-
-.title{
+/* 프로젝트 타이틀*/
+.title{ 
+	font-family: 'Courgette', cursive;
 	font-size: 1.5rem;
 	font-weight: bold;
 }
@@ -163,7 +164,7 @@ object{
 	fill: white;
 }
 
-#moghyaSays{
+#ellaSays{
 	border-top: solid white 1px;
 	font-size: 1rem;
 	margin-top: 5%
