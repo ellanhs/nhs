@@ -1,209 +1,28 @@
 {
   "personalInfo": {
     "myimg": "profilePic.jpeg",
-    "fname": "NAM",
-    "mname": "HYOSUN",
+    "fname": "남",
+    "mname": "효선",
     "lname": "",
     "nick": "ellanhs",
-    "address": {
-      "list": [
-        "서울시 동작구 ",
-        "사당로"
-      ]
-    },
     "email": "smagytjs33@gmail.com",
-    "mob": "0000 000 000"
+    "mob": "000 0000 0000"
   },
   "educations": [
     {
       "periodStart": "2009년 3월",
       "periodEnd": "2015년 8월",
       "course": "정보통신공학전공",
+      "board": "공주대학교" 
+    },
+    {
+      "periodStart": "2011년 7월",
+      "periodEnd": "2011년 8월",
+      "course": "유통관리사2급",
       "score": "",
-      "inst": "충청남도 천안시 서북구 천안대로 1223-24",
-      "board": "공주대학교",
-      "courses": [
-        {
-          "courseCode": "3IT202",
-          "courseName": "Data Structures",
-          "courseScore": "9/10",
-          "sn": 1
-        },
-        {
-          "courseCode": "3IT304",
-          "courseName": "Computer Algorithms",
-          "courseScore": "7/10",
-          "sn": 2
-        },
-        {
-          "courseCode": "3IT331",
-          "courseName": "Machine Learning",
-          "courseScore": "10/10",
-          "sn": 3
-        },
-        {
-          "courseCode": "3OE---",
-          "courseName": "Data Analytics",
-          "courseScore": "8/10",
-          "sn": 4
-        },        
-        {
-          "courseCode": "3IT301",
-          "courseName": "Database Engineering",
-          "courseScore": "9/10",
-          "sn": 12
-        },
-        {
-          "courseCode": "3IT321",
-          "courseName": "Advanced Database Engineering",
-          "courseScore": "9/10",
-          "sn": 13
-        },
-        {
-          "courseCode": "3IT204",
-          "courseName": "Data Communication and Networking",
-          "courseScore": "7/10",
-          "sn": 15
-        },
-        {
-          "courseCode": "3IT213",
-          "courseName": "Computer and Wireless Networks",
-          "courseScore": "6/10",
-          "sn": 16
-        },
-        {
-          "courseCode": "3IT263",
-          "courseName": "Computer and Wireless Networks Lab",
-          "courseScore": "8/10",
-          "sn": 34
-        },
-        {
-          "courseCode": "3IT212",
-          "courseName": "Computer Organization and Architechture",
-          "courseScore": "7/10",
-          "sn": 18
-        },
-        {
-          "courseCode": "3IT372",
-          "courseName": "Parallel Programming Lab",
-          "courseScore": "10/10",
-          "sn": 32
-        },
-        {
-          "courseCode": "3IT324",
-          "courseName": "Information Storage and Management",
-          "courseScore": "6/10",
-          "sn": 21
-        },
-        {
-          "courseCode": "3MA204",
-          "courseName": "Linear Algebra",
-          "courseScore": "7/10",
-          "sn": 7
-        },
-        {
-          "courseCode": "3MA215",
-          "courseName": "Statistics and Fuzzy Systems",
-          "courseScore": "6/10",
-          "sn": 8
-        },
-        {
-          "courseCode": "3IT252",
-          "courseName": "Data Structures Lab",
-          "courseScore": "10/10",
-          "sn": 29
-        },
-        {
-          "courseCode": "3IT203",
-          "courseName": "Processor Architechture",
-          "courseScore": "7/10",
-          "sn": 17
-        },
-        {
-          "courseCode": "3IT281",
-          "courseName": "Mini Project - I",
-          "courseScore": "10/10",
-          "sn": 22
-        },
-        {
-          "courseCode": "3IT214",
-          "courseName": "System Programming",
-          "courseScore": "7/10",
-          "sn": 19
-        },
-        {
-          "courseCode": "3IT255",
-          "courseName": "Programming Lab - I (C++)",
-          "courseScore": "10/10",
-          "sn": 26
-        },
-        {
-          "courseCode": "3IT352",
-          "courseName": "Web Technology Lab",
-          "courseScore": "9/10",
-          "sn": 33
-        },
-        {
-          "courseCode": "3IT342",
-          "courseName": "Mini Project - IV",
-          "courseScore": "10/10",
-          "sn": 25
-        },
-        {
-          "courseCode": "3IT341",
-          "courseName": "Mini-Project - III",
-          "courseScore": "10/10",
-          "sn": 24
-        },
-        {
-          "courseCode": "3IT302",
-          "courseName": "Software Engineering Design",
-          "courseScore": "7/10",
-          "sn": 20
-        },
-        {
-          "courseCode": "3IT371",
-          "courseName": "Unix Operating System Lab",
-          "courseScore": "10/10",
-          "sn": 30
-        },
-        {
-          "courseCode": "3IT282",
-          "courseName": "Mini Project - II",
-          "courseScore": "10/10",
-          "sn": 23
-        },
-        {
-          "courseCode": "3IT265",
-          "courseName": "Programming Lab - II (Java)",
-          "courseScore": "10/10",
-          "sn": 27
-        },
-        {
-          "courseCode": "3IT312",
-          "courseName": "Cloud Computing",
-          "courseScore": "7/10",
-          "sn": 14
-        },
-        {
-          "courseCode": "3IT323",
-          "courseName": "Information Theory",
-          "courseScore": "8/10",
-          "sn": 9
-        },
-        {
-          "courseCode": "2IT253",
-          "courseName": "Processor Architechture Lab",
-          "courseScore": "10/10",
-          "sn": 28
-        },
-        {
-          "courseCode": "3IT351",
-          "courseName": "Database Engineering Lab",
-          "courseScore": "10/10",
-          "sn": 31
-        }
-      ]
+      "inst": "",
+      "board": "대한상공회의소",
+      "courses": []
     },
     {
       "periodStart": "2017년 11월",
@@ -212,15 +31,6 @@
       "score": "",
       "inst": "",
       "board": "그린 컴퓨터 아카데미",
-      "courses": []
-    },
-      {
-      "periodStart": "2011년 7월",
-      "periodEnd": "2011년 8월",
-      "course": "유통관리사2급",
-      "score": "",
-      "inst": "",
-      "board": "대한상공회의소",
       "courses": []
     },
     {
@@ -344,7 +154,7 @@
       "link": "https://github.com/ellanhs/WithU.git"
     }
   ],
-  "summary": "<p>안녕하세요.full stack개발자 남효선 입니다.알고리즘,프로그래밍에  관심이 있고  Java와 Javascript를 좋아합니다.:)저와 공통관심사가 있으시다면 공유하고 함께 성장했으면 좋겠습니다!</p><p>만약 제가 놓친 부분이 있다면 피드백해주시면 감사드리겠습니다.하하.</p><p>Dear Visitor, Thank you for visiting my webspace.</p><p>I work as Software Development Engineer.I majored in Information and Communication Engineering(Information Technology) at KONG JU University.</p>\n<p>I'm interested in Algorithms, Programming. I like Java and Javascript :)</p>\n</p>intermediate-level candidate whom is initiative, proactive and willing to learn continously.when i work, i always thiking about how to improve the code or system.i'm seeking to use my programming skill to contribute towards the company's excellence.</p>",
+  "summary": "<p>안녕하세요.full stack개발자 남효선 입니다.알고리즘,프로그래밍에  관심이 있고  Java와 Javascript를 좋아합니다.:)저와 공통관심사가 있으시다면 공유하고 함께 성장했으면 좋겠습니다!</p><p>Dear Visitor, Thank you for visiting my webspace.</p><p>I work as Software Development Engineer.I majored in Information and Communication Engineering(Information Technology) at KONG JU University.</p>\n<p>I'm interested in Algorithms,Programming. I like Java and Javascript :)</p>\n</p>intermediate-level candidate whom is initiative, proactive and willing to learn continously.when i work, i always thiking about how to improve the code or system.</p>",
   "profileLinks": [
     {
       "name": "Github",
@@ -356,6 +166,12 @@
       "name": "LinkedIn",
       "icon": "linkedin.svg",
       "link": "https://www.linkedin.com/in/hyosun-nam-3b5103105",
+      "sn": 1
+    },
+    {
+      "name": "BLOG",
+      "icon": "blog.svg",
+      "link": "https://blog.naver.com/PostList.nhn?blogId=skagytjs33",
       "sn": 1
     }
   ],
