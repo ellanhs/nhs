@@ -67,7 +67,7 @@ function loadWorks(experince){
 	$('#experience').html(worksInnerHTML);
 }
 
-function loadEducations(educations){
+/*function loadEducations(educations){
 	var i=0,j;
 	var educationsInnerHTML = '';
 	for(i=0;i<educations.length;i++){
@@ -85,7 +85,7 @@ function loadEducations(educations){
 		educationsInnerHTML+=education;
 	}
 	$('#education').html(educationsInnerHTML);
-}
+}*/
 
 function loadLinks(profileLinks){
 	var i=0,j;			
@@ -232,7 +232,7 @@ $.get("js/profile.json",
 		loadSkills(profile.skills);
 		loadProjects(profile.projects);
 		loadWorks(profile.experince);
-		loadEducations(profile.educations);
+		//loadEducations(profile.educations);
 		console.log('body loaded calling');
 		onBodyLoad();
 });
