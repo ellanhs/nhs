@@ -32,7 +32,6 @@ div.content {
 }
 
 .row {
-	margin-left: 20px;
 	margin-top:30px;
 	margin-bottom:0px;
 }
@@ -240,7 +239,7 @@ button:hover {
     left: auto;
     right: auto;
 }
-img[alt="img/blog (1).svg"]{
+img[alt="BLOG"]{
 	background-color:white;
 	height: 52px;
 }
