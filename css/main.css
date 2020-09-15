@@ -132,7 +132,6 @@ div.content {
 	margin: 1%;
 }
 
-
 object{
 	width: 13%;
 	margin: 1%;
@@ -141,12 +140,10 @@ object{
 #contact{
 	text-align: center;
 }
-
 #skills{
 	text-align: center;
 	font-size: 10px;
 }
-
 #believe{
 	height: 10em;
 }
@@ -156,8 +153,9 @@ object{
 #skills svg path{
 	fill: rgba(255,255,255,1);
 }
-
-
+#likes svg path{
+	fill: rgba(255,255,255,1);
+}
 #image img{
 	width: 35.5%;
 	filter: grayscale(1);
@@ -165,11 +163,10 @@ object{
 	margin-left: 30.25%;
 	margin-right: 30.25%;
 }
-
 #links svg path{
 	fill: white;
+	fill: rgba(255,255,255,1);
 }
-
 #ellaSays{
 	border-top: solid white 1px;
 	font-size: 1rem;
