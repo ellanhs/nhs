@@ -240,3 +240,7 @@ button:hover {
     left: auto;
     right: auto;
 }
+img[alt="img/blog (1).svg"]{
+	background-color:white;
+	height: 52px;
+}
