@@ -212,6 +212,7 @@ $.get("js/profile.json",
 		$('#image img').attr('src','img/'+pInfo.myimg);
 		$('#contact').html(pInfo.mob+'</br>'+pInfo.email);
 		$('#summary').html(profile.summary);
+		$('#interview').html(profile.interview);
 		$('#tabs').html(`					
 			<li class="tab col s2"><a href="#hello">Hello</a></li>
 			<li class="tab col s2"><a href="#skills">Skills</a></li>
