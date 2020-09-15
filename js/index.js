@@ -211,7 +211,7 @@ $.get("js/profile.json",
 		$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
 		$('#image img').attr('src','img/'+pInfo.myimg);
 		$('#contact').html(pInfo.mob+'</br>'+pInfo.email);
-		$('#summary').html('<p><h5>Who I Am ?</h5></p>'+profile.summary );
+		$('#summary').html('<p><h5>Who Am I?</h5></p>'+profile.summary );
 		$('#interview').html(profile.interview );
 		$('#tabs').html(`					
 			<li class="tab col s2"><a href="#hello">Hello</a></li>

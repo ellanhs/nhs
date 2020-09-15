@@ -161,7 +161,7 @@
     },
     {
       "name": "BLOG",
-      "icon": "blog.svg",
+      "icon": "blog (1).svg",
       "link": "https://blog.naver.com/PostList.nhn?blogId=skagytjs33",
       "sn": 1
     }
@@ -183,11 +183,6 @@
       "sn": 3
     },
     {
-      "name": "Cat",
-      "icon": "cat.svg",
-      "sn": 4
-    },
-    {
       "name": "Chicken",
       "icon": "chicken.svg",
       "sn": 5
@@ -195,7 +190,7 @@
     {
       "name": "Camping",
       "icon": "tent.svg",
-      "sn": 7
+      "sn": 6
     }
   ],
   "qoutes": [
