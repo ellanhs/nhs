@@ -8,13 +8,13 @@
 -----------------------------------------------------
 ## 화면
 + Hello
-![image](https://user-images.githubusercontent.com/36659647/92418565-2b801900-f1a3-11ea-8ff8-073f9c48275b.png)
+![image](https://user-images.githubusercontent.com/36659647/93420200-7576a680-f8e9-11ea-95af-5104f8964c91.png)
 + Skill 
-![image](https://user-images.githubusercontent.com/36659647/92418603-566a6d00-f1a3-11ea-9ecc-ea276b43fbde.png)
+![image](https://user-images.githubusercontent.com/36659647/93420247-86bfb300-f8e9-11ea-8e35-fb961e37ab2d.png)
 + Project
-![image](https://user-images.githubusercontent.com/36659647/92418616-65511f80-f1a3-11ea-88b4-cd45dd84e55b.png)
+![image](https://user-images.githubusercontent.com/36659647/93420262-9212de80-f8e9-11ea-9fcb-025a84b5f04b.png)
 + Experience
-![image](https://user-images.githubusercontent.com/36659647/92418623-7732c280-f1a3-11ea-892c-9e623ab7a1b5.png)
+![image](https://user-images.githubusercontent.com/36659647/93420284-9b03b000-f8e9-11ea-9252-21a018742208.png)
 ------------------------------------------------------
 ## 화면
 ------------------------------------------------------
