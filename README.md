@@ -2,7 +2,7 @@
 -----------------------------------------------------
 ## 기획
 ‘Porfile’는 남효선,저의 개인 이력 및 포트폴리오 소개 페이지입니다.
-
+-----------------------------------------------------
 ## 프로젝트 일정
 + 프로젝트 기획 및 설계 2020-08 ~ 2020-09
 -----------------------------------------------------
@@ -16,11 +16,10 @@
 + Experience
 ![image](https://user-images.githubusercontent.com/36659647/93420284-9b03b000-f8e9-11ea-9252-21a018742208.png)
 ------------------------------------------------------
-## 화면
-------------------------------------------------------
 ## Libraries
-jquery-https://jquery.com/
-Materialize-https://materializecss.com/
-Google Fonts-https://fonts.google.com/
-Devicons-https://devicon.dev/
-Simple Icons-https://simpleicons.org/
++jquery-https://jquery.com/
++Materialize-https://materializecss.com/
++Google Fonts-https://fonts.google.com/
++Devicons-https://devicon.dev/
++Simple Icons-https://simpleicons.org/
+-----------------------------------------------------
