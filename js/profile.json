@@ -98,7 +98,7 @@
       "periodStart": "2018년 10월",
       "periodEnd": "2020년 2월",
       "organisation": "FMCS(Facility Management Community System)",
-      "experience": "커뮤니티 시설의 회원이 편리하게 이용할 수 있도록 예약 ,결제  ,레슨 등록 등과 이용 내역,출입 내역,기타 내역을 모바일, 웹페이지, 키오스크, 월패드 등을 통해 서비스를 받을 수 있으며 ,커뮤니티 관리자를 위한 회원관리, 레슨관리, 시설예약, 좌석배정, 실적 및 통계분석을효율적으로 관리할 수 있게  관리 시스템을 제공합니다.</li><li>개발 환경:</li> <ul><li>back-end: java,jap.</li><li>front-end: css, html, javascript</li><li>DB : Tibero 5 </li></ul> <li>당담업무:</li> <ul><li>FMCS시스템 유지보수 및기능 개선</li><li>clon coding과 식수 기능 추가하여 신규 커뮤니티 시스템  Spring 2019년 9월 런칭</li></ul>" ,
+      "experience": "커뮤니티 시설의 회원이 편리하게 이용할 수 있도록 예약 ,결제  ,레슨 등록 등과 이용 내역,출입 내역,기타 내역을 모바일, 웹페이지, 키오스크, 월패드 등을 통해 서비스를 받을 수 있으며 ,커뮤니티 관리자를 위한 회원관리, 레슨관리, 시설예약, 좌석배정, 실적 및 통계분석을효율적으로 관리할 수 있게  관리 시스템을 제공합니다.</li><li>개발 환경:</li> <ul><li>back-end: JAVA,JSP.</li><li>front-end: css, html, javascript</li><li>DB : Tibero 5 </li></ul> <li>당담업무:</li> <ul><li>FMCS시스템 유지보수 및기능 개선</li><li>clon coding과 식수 기능 추가하여 신규 커뮤니티 시스템  Spring 2019년 9월 런칭</li></ul>" ,
       "type": "work"
     }
   ],
@@ -125,7 +125,7 @@
     },
     {
       "sn": 1,
-      "projectTitle": "WthU",
+      "projectTitle": "WthU(아직 진행단계에 있습니다.)",
       "periodStart": "Jul 2020",
       "periodEnd": "Sep 2020",
       "toolsUsed": [
@@ -133,14 +133,14 @@
         "JAVASCRIPT",
         "CSS",
         "HTML5",
-        "Apach Tomcat"
+        "Apach Tomcat7"
       ],
       "tags": [
         "oop",
         "JAVA",
         "Javascript"
       ],
-      "shortInfo": "C++ Qt Standalone Application keeps track of every patient and its visits. Data collected can be used for Projects of Data Mining and Machine Learning as data sets.",
+      "shortInfo": "(진헹 중.....)WithU는 당신과 함께라는 의미로, 누군가화 대화가 가능하며, 일정을 함께 관리할수있도록 제작된 서비스입니다.카카오채팅화면을 클론 코딩하여 채팅 UI를 구성하였습니다.",
       "link": "https://github.com/ellanhs/WithU.git"
     }
   ],
